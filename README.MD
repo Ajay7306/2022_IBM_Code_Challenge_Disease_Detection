@@ -5,10 +5,10 @@
 
 
 ### :boom: List of Contibutors
-1. <a href =  "">Person 1 </a>, RIT Kottayam
-2. <a href =  "">Person 2 </a>, RIT Kottayam
-3. <a href =  "">Person 3 </a>, RIT Kottayam
-4. <a href =  "">Person 4 </a>, RIT Kottayam
+1. <a href =  "https://github.com/AthulBhagianath"></a>, Athul Bhagianath Kottayam
+2. <a href =  "">Ajay MV </a>, RIT Kottayam
+3. <a href =  "https://github.com/franly1997">Franly Francis P</a>, RIT Kottayam
+4. <a href =  "">Rahul U </a>, RIT Kottayam
 
 
 
