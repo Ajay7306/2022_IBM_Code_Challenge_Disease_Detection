@@ -56,8 +56,9 @@ def predict():
 
     if request.method == 'POST':
         # Get the file from post request
+        
         f = request.files['file']
-
+        print(f)
         # Save the file to ./uploads
         basepath = os.path.dirname(__file__)
         file_path = os.path.join(
