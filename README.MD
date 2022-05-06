@@ -8,7 +8,7 @@
 1. <a href =  "https://github.com/AthulBhagianath">Athul Bhagianath</a>, RIT Kottayam
 2. <a href =  "">Ajay MV </a>, RIT Kottayam
 3. <a href =  "https://github.com/franly1997">Franly Francis P</a>, RIT Kottayam
-4. <a href =  "">Rahul U </a>, RIT Kottayam
+4. <a href =  "https://github.com/rahul-ulleri">Rahul U </a>, RIT Kottayam
 
 
 
