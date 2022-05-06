@@ -37,7 +37,9 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
 
 https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true
 
-<a href =  "https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true">Controller App Demo </a>
+<a href =  "https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"> </a>
+
+
 
 <!--<details>
   <ol>
