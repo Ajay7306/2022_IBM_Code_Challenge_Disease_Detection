@@ -56,7 +56,7 @@ model = get_model()
 model.summary()
 
 
-# Model training
+# Model Training
 model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics='accuracy')
 history = model.fit(train, batch_size=80, epochs=15, validation_data=val)
 
