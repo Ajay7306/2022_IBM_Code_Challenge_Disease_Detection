@@ -11,9 +11,28 @@
 4. <a href =  "https://github.com/rahul-ulleri">Rahul U </a>, RIT Kottayam
 
 
+</br>
+# :rocket: Problem Statement
+The fast growth of online ordering has increased the demand for delivery labour in a tenfold. The aim of our project was to create a drone that can be used to deliver parcels to your doorstep.Our drone will be able to avoid any collision such as trees,buildings, other UAVs or sign boards.
 
-<!-- TABLE OF CONTENTS -->
-### :pushpin: Table of Contents
+
+# :bust_in_silhouette: Personas of the System
+<ol>
+  <li>Business Owners</li>
+  <ul>
+    <li>Reduces Labour cost</li>
+    <li>Fastest method</li>
+    <li>Business Expansion</li>
+  </ul>
+  <li>Customers</li>
+  <ul>
+    <li>No contact delivery</li>
+    <li>Less time delay in delivery</li>
+  </ul>
+</ol>
+
+
+
 <details>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
