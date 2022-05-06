@@ -36,7 +36,7 @@
         }
     </style>
     <!-- Start your project here-->
-    <form name="agri" action="imageshow.html" method="post" enctype="multipart/form-data" id="agri">
+    <form name="agri" method="post" enctype="multipart/form-data" id="agri">
         <header>
             <!--Main Navigation-->
             <header>
@@ -52,13 +52,19 @@
                         <!-- Collapsible wrapper -->
 
                         <!-- Left links -->
+                        <!-- Left links -->
+                    </div>
+                    <!-- Collapsible wrapper -->
+
+                    <!-- Right elements -->
+                    <div class="d-flex align-items-center">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link" href="C:\Users\ATHUL\Desktop\MDB5-STANDARD-UI-KIT-Free-4.0.0\agri.html">Home</a>
+                                <a class="nav-link" href="agri.html">Home</a>
                             </li>
                             <!-- Navbar dropdown -->
                             <li class="nav-item">
-                                <a class="nav-link" href="#">About us </a>
+                                <a class="nav-link" href="#">About</a>
                             </li>
 
                             <li class="nav-item">
@@ -67,18 +73,14 @@
 
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Knowledge base  </a>
+                                <a class="nav-link" href="#">Knowledge</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact us  </a>
+                                <a class="nav-link" href="#">Contact</a>
                             </li>
                         </ul>
-                        <!-- Left links -->
                     </div>
-                    <!-- Collapsible wrapper -->
-
-
 
 
                     <!-- Avatar -->
@@ -99,7 +101,7 @@
                             <div class="card card-registration my-4">
                                 <div class="row g-0">
                                     <div class="col-xl-6 d-none d-xl-block">
-                                        <img src="C:\Users\ATHUL\Desktop\MDB5-STANDARD-UI-KIT-Free-4.0.0\img\agri.png" alt="Sample photo" class="img-fluid" style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem;" />
+                                        <img src="img/agri.png" alt="Sample photo" class="img-fluid" style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem;" />
                                     </div>
                                     <div class="col-xl-6">
 
@@ -200,22 +202,41 @@
 
 
                                             <div class="d-flex justify-content-md-center pt-3">
-                                                <input type="submit" class="btn btn-warning btn-lg ms-2" data-mdb-target="#exampleModal" name="submit" value="submit">
+                                                <input type="button" onclick="myfun()" class="btn btn-warning btn-lg ms-2" data-mdb-target="#exampleModal" name="submit" value="submit">
+                                            </div>
+                                            <div id="div1" class="form-outline mb-1" style="display : none">
+                                                <div class="d-flex justify-content-md-center pt-3">
+                                                    <h4 class="mb-5 text-uppercase">Solution</h4>
+                                                </div>
 
-                                                <div class="modal top fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-mdb-backdrop="true" data-mdb-keyboard="true">
-                                                    <div class="modal-dialog  ">
-                                                        <div class="modal-content">
-                                                            <div class="modal-header">
-                                                                <!--<h5 class="modal-title" id="exampleModalLabel">Registered Succesfully hello</h5>-->
 
-                                                            </div>
 
-                                                            <div class="modal-footer">
-                                                                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
+                                                <div>
+                                                    <label class="form-label" for="form3Example1n1">Disease Name</label>
+                                                </div>
+                                                <div class="d-flex justify-content-md-center pt-3">
+                                                    <img src="img/agro2.jpg" alt="..." class="img-thumbnail">
+                                                </div>
+
+                                                <div class="row">
+                                                    <label class="form-label" for="form3Example1n1">Disease Description</label>
+                                                </div>
+
+                                            </div>
+                                            <div class="modal top fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-mdb-backdrop="true" data-mdb-keyboard="true">
+                                                <div class="modal-dialog  ">
+                                                    <div class="modal-content">
+                                                        <div class="modal-header">
+                                                            <!--<h5 class="modal-title" id="exampleModalLabel">Registered Succesfully hello</h5>-->
+
+                                                        </div>
+
+                                                        <div class="modal-footer">
+                                                            <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
                                  
                                 
                               </div>
-                            </div>
+                            
                           </div>
                         </div>
   
@@ -238,6 +259,12 @@
     <!-- Custom scripts -->
     <script type="text/javascript">
         $('.file-upload').file_upload();
+    </script>
+     <script type="text/javascript">
+        function myfun()
+        {
+            document.getElementById("div1").style.display = "block";
+        }
     </script>
   </body>
 </html>
