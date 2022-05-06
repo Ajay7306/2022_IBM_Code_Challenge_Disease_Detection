@@ -12,10 +12,10 @@
 
 
 # :rocket: Problem Statement
-The fast growth of online ordering has increased the demand for delivery labour in a tenfold. The aim of our project was to create a drone that can be used to deliver parcels to your doorstep.Our drone will be able to avoid any collision such as trees,buildings, other UAVs or sign boards.
+Even though India is an agricultural country,a lot of challenges are faced by farmers.Every year the farmers experience large losses due to diseases in crops and this in turn affectes their lifestyle.The proposed system is Farmer assistance to identify and detected disease is provieded thought the web based application. 
 
 
-# :bust_in_silhouette: Personas of the System
+<!-- # :bust_in_silhouette: Personas of the System
 <ol>
   <li>Business Owners</li>
   <ul>
@@ -29,7 +29,7 @@ The fast growth of online ordering has increased the demand for delivery labour 
     <li>Less time delay in delivery</li>
   </ul>
 </ol>
-
+-->
 
 
 <details>
