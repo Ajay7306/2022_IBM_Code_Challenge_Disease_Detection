@@ -59,10 +59,21 @@ def predict():
         f = request.files['file']
 
         # Save the file to ./uploads
-        basepath = os.path.dirname(__file__)
-        file_path = os.path.join(
-            basepath, 'uploads', secure_filename(f.filename))
-        f.save(file_path)
+        try:
+            basepath = os.path.dirname(__file__)
+            list_of_files = os.listdir()
+            print(list_of_files)
+
+            if not "uploads" in list_of_files:
+                print("directery created at", basepath)
+                os.mkdir(os.path.join(basepath, 'uploads'))
+
+            file_path = os.path.join(
+                basepath, 'uploads', secure_filename(f.filename))
+            print(file_path)
+            f.save(file_path)
+        except Exception as e:
+            return(jsonify({"error":"server error", "message":str(e)}))
 
         # Make prediction
         try:
