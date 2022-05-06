@@ -33,6 +33,11 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
   </ul>
 </ol>
 
+## Presantation
+
+https://user-images.githubusercontent.com/38048590/167090249-3d2f8845-5971-4d0e-ba64-7a829328409e.mp4
+
+<a href =  "https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true">Controller App Demo </a>
 
 <!--<details>
   <ol>
