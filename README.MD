@@ -15,15 +15,17 @@
 Even though India is an agricultural country,a lot of challenges are faced by farmers.Every year the farmers experience large losses due to diseases in crops and this in turn affectes their lifestyle.The proposed system is Farmer assistance to identify and detected disease is provieded thought the web based application. 
 
 
-<!-- # :bust_in_silhouette: Personas of the System
+ # :bust_in_silhouette: Methodology
 <ol>
-  <li>Business Owners</li>
+  <li>Disease detection</li>
   <ul>
-    <li>Reduces Labour cost</li>
-    <li>Fastest method</li>
-    <li>Business Expansion</li>
+    <li>Image acquisition </li>
+    <li>Image preprocessing</li>
+    <li>Image segmatiation</li>
+    <li>Feature Extraction</li>
+    <li>Classification</li>
   </ul>
-  <li>Customers</li>
+<!--  <li>Customers</li>
   <ul>
     <li>No contact delivery</li>
     <li>Less time delay in delivery</li>
