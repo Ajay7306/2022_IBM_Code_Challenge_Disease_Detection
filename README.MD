@@ -25,13 +25,13 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
     <li>Feature Extraction</li>
     <li>Classification</li>
   </ul>
-<!--  <li>Customers</li>
+ <li>Technology</li>
   <ul>
-    <li>No contact delivery</li>
-    <li>Less time delay in delivery</li>
+    <li>The disease data set is used to train a ResNet50 model.</li>
+    <li>The data set contains 10 classes,each with 1000 images to train the network.</li>
+    <li>Using the data set and tensor flow API will analyze various disease models.</li>
   </ul>
 </ol>
--->
 
 
 <!--<details>
