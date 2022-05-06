@@ -32,7 +32,7 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
 -->
 
 
-<details>
+<!--<details>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#problem-statement">Problem Statement</a></li>
@@ -45,6 +45,7 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
 
 <!-- ABOUT THE PROJECT -->
 ## :bulb: About The Project
