@@ -40,8 +40,10 @@ https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?us
 <a href =  "https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"> </a>
 
 ## Video
-https://github.com/Ajay7306/2022_IBM_Code_Challenge_Green_Doctor/blob/main/Recording%20%232%20(online-video-cutter.com).mp4
-<a href =  "https://drive.google.com/file/d/1HxUEtFEhzyjtzCuTWcIcvgz9hCFS6lkH/view?usp=drivesdk"> </a>
+
+<a href="https://drive.google.com/file/d/1HxUEtFEhzyjtzCuTWcIcvgz9hCFS6lkH/view?usp=drivesdk"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c4f9.png" alt="HTML tutorial" style="width:70px;height:70px;"></a>
+
+<a href =  "https://drive.google.com/file/d/1HxUEtFEhzyjtzCuTWcIcvgz9hCFS6lkH/view?usp=drivesdk">Video </a>
 
 
 <!--<details>
