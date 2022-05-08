@@ -35,7 +35,10 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
 
 ## Presantation
 
-https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true
+
+<a href="https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"><img src="https://w7.pngwing.com/pngs/644/145/png-transparent-computer-icons-presentation-prezi-information-icon-presntation-miscellaneous-web-design-presentation.png" alt="HTML tutorial" style="width:70px;height:70px;"></a>
+
+
 
 <a href =  "https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"> </a>
 
@@ -43,7 +46,7 @@ https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?us
 
 <a href="https://drive.google.com/file/d/1HxUEtFEhzyjtzCuTWcIcvgz9hCFS6lkH/view?usp=drivesdk"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c4f9.png" alt="HTML tutorial" style="width:70px;height:70px;"></a>
 
-<a href =  "https://drive.google.com/file/d/1HxUEtFEhzyjtzCuTWcIcvgz9hCFS6lkH/view?usp=drivesdk">Video </a>
+
 
 
 <!--<details>
