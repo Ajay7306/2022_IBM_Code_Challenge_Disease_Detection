@@ -36,7 +36,7 @@ Even though India is an agricultural country,a lot of challenges are faced by fa
 ## Presantation
 
 
-<a href="https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"><img src="https://w7.pngwing.com/pngs/644/145/png-transparent-computer-icons-presentation-prezi-information-icon-presntation-miscellaneous-web-design-presentation.png" alt="HTML tutorial" style="width:70px;height:70px;"></a>
+<a href="https://docs.google.com/presentation/d/19Ral1TRVp-IPQd1hdPsxp7G8ceJd_QIz/edit?usp=sharing&ouid=115515563328284756008&rtpof=true&sd=true"><img src="https://www.clipartmax.com/png/middle/465-4650723_oral-presentations-business-presentation-png-icon.png" alt="HTML tutorial" style="width:70px;height:70px;"></a>
 
 
 
